@@ -1,3 +1,4 @@
 
 # slatt
 # gépről írtam
+# konfliktus 
