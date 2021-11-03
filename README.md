@@ -1,1 +1,3 @@
+
 # slatt
+# gépről írtam
